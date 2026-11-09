@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+main {
+    max-width: 600px;
+    margin: auto;
+}
+
+#temperature {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#message {
+    font-size: 1.5rem;
+}
+
+.cold {
+    background-color: lightblue;
+}
+
+.mild {
+    background-color: lightyellow;
+}
+
+.hot {
+    background-color: lightcoral;
+}
+
